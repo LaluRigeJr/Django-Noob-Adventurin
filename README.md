@@ -1,1 +1,1 @@
-# Django-Noob-Adventurin
+# Django-Noob
